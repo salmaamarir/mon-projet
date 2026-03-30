@@ -1,0 +1,30 @@
+.header {
+  height: 56px;
+  background: #1B8C3E;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.menuBtn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.avatar {
+  background: white;
+  color: #1B8C3E;
+  padding: 0.5rem;
+  border-radius: 50%;
+}
